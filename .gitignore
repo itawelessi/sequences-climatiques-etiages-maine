@@ -1,0 +1,6 @@
+.venv/
+data/raw/
+data/processed/
+figures/*.png
+.DS_Store
+__pycache__/
