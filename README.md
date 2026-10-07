@@ -53,9 +53,9 @@ Méthode « delta » : la variabilité observée 1971-2021 est conservée, et on
 ## Reproduire
 ```
 pip install -r requirements.txt
-python scripts/05_inspecter_camels.py        # inspection de l'archive
-python scripts/06_analyse_camels.py          # analyse (APPLIQUER_EXCLUSIONS = False pour la version principale)
-python scripts/07_robustesse_et_figures.py   # robustesse et figures
-python scripts/08_sensibilite_2050.py        # test de sensibilité (figures camels_fig5, camels_fig6)
+python scripts/01_inspecter_camels.py        # inspection de l'archive
+python scripts/02_analyse_camels.py          # analyse (APPLIQUER_EXCLUSIONS = False pour la version principale)
+python scripts/03_robustesse_et_figures.py   # robustesse et figures
+python scripts/04_sensibilite_2050.py        # test de sensibilité (figures camels_fig5, camels_fig6)
 ```
 Sorties : `data/processed/camels_*.csv` et `figures/camels_*.png`.
