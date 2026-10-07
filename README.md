@@ -1,7 +1,8 @@
 # Séquences climatiques pluri-saisonnières et étiages dans le bassin de la Maine
 **Analyse des observations 1970-2021 et lecture à l'horizon 2050**
 
-Projet personnel exploratoire, inspiré de la démarche prospective *Transition(s) 2050* de l'ADEME et de sa méthodologie par étapes (cas d'étude, seuils observés, impacts, projections, sensibilité). Auteur : Essowèdéou Ignace TAWELESSI (Master STE, CRASTE-LF, Rabat).
+Projet personnel exploratoire, inspiré de la démarche prospective *Transition(s) 2050* de l'ADEME et de sa méthodologie par étapes (cas d'étude, seuils observés, impacts, projections, sensibilité). 
+ Auteur : Essowèdéou Ignace TAWELESSI (Master 2  au Centre Régionale Africain des S iences et Techonologies de l'Espace CRASTE-LF, Rabat).
 
 ## Question
 Les déficits de pluie des saisons qui précèdent l'été (hiver, printemps) et la chaleur estivale permettent-ils d'expliquer la sévérité des étiages dans le bassin de la Maine (Sarthe, Mayenne, Loir) ? Les séquences « hiver sec puis printemps sec » sont-elles plus fréquentes, et ont-elles un effet visible sur les étiages ?
