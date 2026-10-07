@@ -5,7 +5,8 @@ Projet personnel exploratoire, inspiré de la démarche prospective *Transition(
  Auteur : Essowèdéou Ignace TAWELESSI (Master 2  au Centre Régionale Africain des S iences et Techonologies de l'Espace CRASTE-LF, Rabat).
 
 ## Question
-Les déficits de pluie des saisons qui précèdent l'été (hiver, printemps) et la chaleur estivale permettent-ils d'expliquer la sévérité des étiages dans le bassin de la Maine (Sarthe, Mayenne, Loir) ? Les séquences « hiver sec puis printemps sec » sont-elles plus fréquentes, et ont-elles un effet visible sur les étiages ?
+Les déficits de pluie des saisons qui précèdent l'été (hiver, printemps) et la chaleur estivale permettent-ils d'expliquer la sévérité des étiages dans le bassin de la Maine (Sarthe, Mayenne, Loir) ?
+Les séquences « hiver sec puis printemps sec » sont-elles plus fréquentes, et ont-elles un effet visible sur les étiages ?
 
 ## Données
 - **CAMELS-FR** (INRAE, Recherche Data Gouv, DOI 10.57745/WH7FJR) : séries journalières 1970-2021 de débits et de variables climatiques (SAFRAN / SIM2, Météo-France) agrégées par bassin versant.
